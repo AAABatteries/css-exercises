@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.Odd{
+    background-color: hsl(310, 100%, 54%);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.Twentyfourpixel{
+    font-size: 24px;
+}
+
+#secondElement{
+    color: hsl(212, 100%, 31%);
+    font-size: 36px;
+}
+
+#fourthElement{
+    background-color: hsl(120, 81%, 69%);
+    font-weight: bold;
+}
